@@ -1,0 +1,12 @@
+nav a{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    margin-right: 20px;
+}
+nav a:hover{
+    background-color: red;
+}
+.active{
+    background-color: rgb(36, 117, 4);
+}
